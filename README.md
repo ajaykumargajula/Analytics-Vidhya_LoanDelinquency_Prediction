@@ -10,7 +10,7 @@ Given the information like mortgage details, borrowers related details and payme
 
 
 ## Data Dictionary ##
-*Variable|Description
+Variable|Description
 --------|--------	
 loan_id|Unique loan ID
 source|Loan origination channel
